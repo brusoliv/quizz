@@ -1,7 +1,7 @@
 const perguntas = [
   {
     texto: "1. Qual o nome do movimento em que a bailarina gira sobre uma perna?",
-    imagem: "imgs/degas1.jpg",
+    imagem: "degas1.jpg",
     alternativas: ["Plié", "Pirouette", "Souplesse", "Port de bras"],
     correta: 1
   },
