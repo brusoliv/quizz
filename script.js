@@ -1,7 +1,7 @@
 const perguntas = [
   {
     texto: "1. Essa posição é a:",
-    imagem: "imgs/1ªposiçãopés.png",
+    imagem: "imgs/1posicaopes.png",
     alternativas: ["Quinta posição de pés", "Quarta posição de pés", "Primeira posição de pés", "Segunda posição de pés"],
     correta: 2
   },
