@@ -7,29 +7,29 @@ const perguntas = [
   },
   {
     texto: "2. Esse movimento é o:",
-    imagem: "/battementtendudevant.webp",
+    imagem: "imgs/battementtendudevant.webp",
     alternativas: ["Battement jeté a la second", "Battement tendu devant", "Battement jeté derriére", "Battement tendu derriére"],
     correta: 1
   },
   {
     texto: "3. O que significa 'En dehors'?",
-    imagem: "/coupé.webp",
+    imagem: "imgs/coupe.webp",
     alternativas: ["Preparatória", "Para dentro", "Saltar", "Para fora"],
     correta: 3
   },
  {
     texto: "4. Esse movimento é o:",
-    imagem: "/demiplié2.png",
+    imagem: "imgs/demiplie2.png",
     alternativas: ["Demi plié", "Battement tendu devant", "Grand plié", "Battement tendu derriére"],
     correta: 0
   },
 
   {
     texto: "5. Qual é o nome desse movimento?",
-    imagem: "/passé.jpg",
+    imagem: "imgs/passe.jpg",
     alternativas: ["Relevé", "Cambré", "Assemblé", "Passé"],
     correta: 3
-  },
+  }
   /*{
     texto: "5. Qual é o nome desse movimento?",
     imagem: "",
