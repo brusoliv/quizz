@@ -1,31 +1,38 @@
 const perguntas = [
   {
-    texto: "1. Qual o nome do movimento em que a bailarina gira sobre uma perna?",
-    imagem: "imgs/degas1.jpg",
-    alternativas: ["Plié", "Pirouette", "Souplesse", "Port de bras"],
-    correta: 1
+    texto: "1. Essa posição é a:",
+    imagem: "/1ªposiçãopés.png",
+    alternativas: ["Quinta posição de pés", "Quarta posição de pés", "Primeira posição de pés", "Segunda posição de pés"],
+    correta: 2
   },
   {
-    texto: "2. O 'Battement tendu devant' é executado em qual direção?",
-    imagem: "imgs/degas1.jpg",
-    alternativas: ["Atrás", "Na frente", "Em diagonal", "Ao lado"],
+    texto: "2. Esse movimento é o:",
+    imagem: "/battementtendudevant.webp",
+    alternativas: ["Battement jeté a la second", "Battement tendu devant", "Battement jeté derriére", "Battement tendu derriére"],
     correta: 1
   },
   {
     texto: "3. O que significa 'En dehors'?",
-    imagem: "imgs/degas1.jpg",
+    imagem: "/coupé.webp",
     alternativas: ["Preparatória", "Para dentro", "Saltar", "Para fora"],
     correta: 3
   },
-  {
-    texto: "4. Qual dessas alternativas é um salto?",
-    imagem: "imgs/degas1.jpg",
-    alternativas: ["Relevé", "Cambré", "Assemblé", "Plié"],
-    correta: 2
+ {
+    texto: "4. Esse movimento é o:",
+    imagem: "/demiplié2.png",
+    alternativas: ["Demi plié", "Battement tendu devant", "Grand plié", "Battement tendu derriére"],
+    correta: 0
   },
+
   {
-    texto: "5. O que é 'Demi plié' ?",
-    imagem: "imgs/degas1.jpg",
+    texto: "5. Qual é o nome desse movimento?",
+    imagem: "/passé.jpg",
+    alternativas: ["Relevé", "Cambré", "Assemblé", "Passé"],
+    correta: 3
+  },
+  /*{
+    texto: "5. Qual é o nome desse movimento?",
+    imagem: "",
     alternativas: ["Um giro", "Flexão de costas", "Flexão de joelhos", "Esticar as pontas"],
     correta: 2
   },
@@ -58,7 +65,7 @@ const perguntas = [
     imagem: "imgs/degas1.jpg",
       alternativas: ["Battement soutenu", "Grand Plié", "Grand battement", "Echappé"],
     correta: 2
-  }
+  }*/
   
 ];
 
