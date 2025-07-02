@@ -98,7 +98,7 @@ function carregarPergunta() {
 
   div.innerHTML = `
     <p>${p.texto}</p>
-    <img src="${p.imagem}" alt="Imagem da pergunta">
+    <img src="${p.imgs}" alt="Imagem da pergunta">
     <div class="alternativas">
       ${p.alternativas.map((alt, i) => `
         <div class="botao" onclick="responder(${i})">${alt}</div>
